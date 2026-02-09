@@ -9,6 +9,13 @@ declare module 'vitest' {
 
 export default defineConfig({
   test: {
+    coverage: {
+      // See https://github.com/marketplace/actions/vitest-coverage-report
+      // you can include other reporters, but 'json-summary' is required, json is recommended
+      reporter: ['text', 'json-summary', 'json'],
+      // If you want a coverage reports even if your tests are failing, include the reportOnFailure option
+      reportOnFailure: true,
+    },
     projects: [
       {
         test: {
