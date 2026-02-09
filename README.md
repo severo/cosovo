@@ -1,7 +1,7 @@
 # cosovo
 
 [![npm](https://img.shields.io/npm/v/cosovo)](https://www.npmjs.com/package/cosovo)
-[![minzipped](https://img.shields.io/bundlephobia/minzip/cosovo)](https://www.npmjs.com/package/cosovo)
+[![size](https://img.shields.io/bundlejs/size/cosovo)](https://www.npmjs.com/package/cosovo)
 [![workflow status](https://github.com/severo/cosovo/actions/workflows/ci.yml/badge.svg)](https://github.com/severo/cosovo/actions)
 [![mit license](https://img.shields.io/badge/License-MIT-orange.svg)](https://opensource.org/licenses/MIT)
 ![coverage](https://img.shields.io/badge/Coverage-100-darkred)
