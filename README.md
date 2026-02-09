@@ -4,7 +4,7 @@
 [![size](https://img.shields.io/bundlejs/size/cosovo)](https://www.npmjs.com/package/cosovo)
 [![workflow status](https://github.com/severo/cosovo/actions/workflows/ci.yml/badge.svg)](https://github.com/severo/cosovo/actions)
 [![mit license](https://img.shields.io/badge/license-MIT-orange.svg)](https://opensource.org/licenses/MIT)
-![coverage](https://img.shields.io/badge/coverage-100%25-brightgreen)
+[![coverage](https://img.shields.io/badge/coverage-100%25-brightgreen)](https://github.com/severo/cosovo/actions/workflows/ci.yml)
 [![dependencies](https://img.shields.io/badge/dependencies-0-blue)](https://www.npmjs.com/package/cosovo?activeTab=dependencies)
 
 Fetch and parse ranges of CSV file.
